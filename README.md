@@ -1,2 +1,1 @@
 # Calculator
-Virtual Internship tasks  
